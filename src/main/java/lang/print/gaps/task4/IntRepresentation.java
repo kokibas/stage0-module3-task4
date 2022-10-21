@@ -14,9 +14,7 @@ public class IntRepresentation {
         h = h1;
         a = a1;
         r = r1;
-        System.out.println(c);
-        System.out.println(h);
-        System.out.println(a);
-        System.out.println(r);
+        System.out.println(c + h + a + r);
+
     }
 }
